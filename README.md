@@ -1,5 +1,5 @@
 # Lifythm
-音乐节奏游戏《生音》的关键代码文本
+音乐节奏游戏《生音》的关键代码文本，本游戏使用插件 Koreography 
 
 本代码使用了自建音乐资源控件和描边系统，集中体现在引用EasyAudioSystem、Outline类上。
 
